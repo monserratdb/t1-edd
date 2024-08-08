@@ -1,0 +1,44 @@
+Mercado inactivo: No hay registros de transacciones.
+User 34 compra a monto 5
+User 64 compra a monto 3
+User 3 compra a monto 3
+User 63 compra a monto 6
+User 57 compra a monto 6
+User 53 compra a monto 2
+User 25 compra a monto 3
+User 65 compra a monto 1
+User 31 compra a monto 2
+User 99 compra a monto 7
+User 37 compra a monto 9
+User 77 compra a monto 7
+User 80 compra a monto 1
+User 93 compra a monto 5
+Estado del mercado
+	9 por 37
+User 25 vende a monto 8
+Orden Ejecutada: 25 -> 37: 8
+User 89 vende a monto 4
+Orden Ejecutada: 89 -> 99: 4
+User 94 vende a monto 6
+Orden Ejecutada: 94 -> 77: 6
+User 39 vende a monto 2
+Orden Ejecutada: 39 -> 63: 2
+User 60 vende a monto 9
+User 28 vende a monto 5
+Orden Ejecutada: 28 -> 57: 5
+User 2 vende a monto 3
+Orden Ejecutada: 2 -> 34: 3
+User 60 vende a monto 2
+Orden Ejecutada: 60 -> 93: 2
+User 29 vende a monto 4
+User 18 vende a monto 4
+User 98 vende a monto 2
+Orden Ejecutada: 98 -> 64: 2
+User 27 vende a monto 6
+User 69 vende a monto 1
+Orden Ejecutada: 69 -> 3: 1
+User 39 vende a monto 10
+Estado del mercado
+	3 por 25
+	SPREAD 1
+	4 por 29

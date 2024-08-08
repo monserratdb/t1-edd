@@ -1,0 +1,42 @@
+User 99 vende a monto 10
+User 50 vende a monto 1
+User 45 vende a monto 9
+User 85 vende a monto 5
+User 39 vende a monto 2
+User 58 vende a monto 9
+User 33 vende a monto 3
+User 52 vende a monto 4
+User 76 vende a monto 8
+User 82 vende a monto 9
+User 81 vende a monto 5
+User 71 vende a monto 1
+User 7 vende a monto 3
+User 28 vende a monto 9
+Estado del mercado
+	1 por 50
+User 95 compra a monto 10
+Orden Ejecutada: 50 -> 95: 10
+User 35 compra a monto 7
+Orden Ejecutada: 71 -> 35: 7
+User 3 compra a monto 4
+Orden Ejecutada: 39 -> 3: 4
+User 4 compra a monto 8
+Orden Ejecutada: 33 -> 4: 8
+User 24 compra a monto 4
+Orden Ejecutada: 7 -> 24: 4
+User 73 compra a monto 6
+Orden Ejecutada: 52 -> 73: 6
+User 64 compra a monto 3
+User 10 compra a monto 2
+User 77 compra a monto 6
+Orden Ejecutada: 85 -> 77: 6
+User 46 compra a monto 5
+Orden Ejecutada: 81 -> 46: 5
+User 77 compra a monto 2
+User 35 compra a monto 1
+User 22 compra a monto 2
+User 16 compra a monto 2
+Estado del mercado
+	3 por 64
+	SPREAD 5
+	8 por 76

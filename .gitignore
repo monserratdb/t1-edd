@@ -1,0 +1,13 @@
+__pycache__/
+.edd-cache
+.py[co]
+*Zone.Identifier
+/.ccls-cache/
+/.direnv/
+/bin
+/hsearch
+/market
+/obj
+/tests
+input.txt
+output.txt

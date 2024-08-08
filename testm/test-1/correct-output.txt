@@ -1,0 +1,157 @@
+User 34 compra a monto 15
+User 13 vende a monto 12
+Orden Ejecutada: 13 -> 34: 12
+User 92 vende a monto 12
+User 66 vende a monto 1
+User 75 compra a monto 3
+Orden Ejecutada: 66 -> 75: 3
+User 64 vende a monto 9
+User 10 vende a monto 14
+User 23 compra a monto 13
+Orden Ejecutada: 64 -> 23: 13
+Estado del mercado
+	12 por 92
+Estado del mercado
+	12 por 92
+User 84 vende a monto 11
+User 75 compra a monto 4
+User 2 vende a monto 9
+User 79 vende a monto 13
+User 34 vende a monto 5
+User 40 vende a monto 6
+User 38 compra a monto 12
+Orden Ejecutada: 34 -> 38: 12
+User 43 compra a monto 10
+Orden Ejecutada: 40 -> 43: 10
+User 73 compra a monto 13
+Orden Ejecutada: 2 -> 73: 13
+User 13 compra a monto 5
+User 61 vende a monto 4
+Orden Ejecutada: 61 -> 13: 4
+User 6 compra a monto 10
+Estado del mercado
+	10 por 6
+	SPREAD 1
+	11 por 84
+User 84 compra a monto 9
+User 55 vende a monto 6
+Orden Ejecutada: 55 -> 6: 6
+User 95 vende a monto 2
+Orden Ejecutada: 95 -> 84: 2
+User 80 vende a monto 12
+User 90 compra a monto 13
+Orden Ejecutada: 84 -> 90: 13
+User 46 vende a monto 11
+User 36 compra a monto 8
+Estado del mercado
+	8 por 36
+	SPREAD 3
+	11 por 46
+Estado del mercado
+	8 por 36
+	SPREAD 3
+	11 por 46
+User 80 vende a monto 11
+User 91 compra a monto 13
+Orden Ejecutada: 46 -> 91: 13
+User 41 compra a monto 7
+User 1 compra a monto 9
+User 1 compra a monto 2
+User 32 compra a monto 3
+User 68 vende a monto 8
+Orden Ejecutada: 68 -> 1: 8
+User 99 vende a monto 4
+Orden Ejecutada: 99 -> 36: 4
+User 9 compra a monto 6
+User 30 compra a monto 15
+Orden Ejecutada: 80 -> 30: 15
+User 28 vende a monto 9
+User 80 vende a monto 11
+User 28 compra a monto 1
+User 29 compra a monto 5
+User 33 vende a monto 15
+Estado del mercado
+	7 por 41
+	SPREAD 2
+	9 por 28
+User 87 compra a monto 15
+Orden Ejecutada: 28 -> 87: 15
+User 53 compra a monto 5
+User 45 compra a monto 9
+User 20 compra a monto 12
+Orden Ejecutada: 80 -> 20: 12
+User 78 vende a monto 6
+Orden Ejecutada: 78 -> 45: 6
+User 75 compra a monto 13
+Orden Ejecutada: 92 -> 75: 13
+Estado del mercado
+	7 por 41
+	SPREAD 5
+	12 por 80
+User 72 vende a monto 14
+User 91 vende a monto 5
+Orden Ejecutada: 91 -> 41: 5
+User 42 compra a monto 15
+Orden Ejecutada: 80 -> 42: 15
+User 4 compra a monto 1
+User 31 vende a monto 2
+Orden Ejecutada: 31 -> 9: 2
+User 7 compra a monto 11
+User 97 vende a monto 2
+Orden Ejecutada: 97 -> 7: 2
+User 11 vende a monto 6
+User 59 compra a monto 4
+User 3 vende a monto 15
+Estado del mercado
+	5 por 29
+	SPREAD 1
+	6 por 11
+User 2 vende a monto 8
+User 34 compra a monto 13
+Orden Ejecutada: 11 -> 34: 13
+User 20 compra a monto 11
+Orden Ejecutada: 2 -> 20: 11
+User 74 vende a monto 11
+User 20 vende a monto 15
+User 77 compra a monto 6
+User 25 compra a monto 4
+User 21 vende a monto 4
+Orden Ejecutada: 21 -> 77: 4
+User 34 compra a monto 12
+Orden Ejecutada: 74 -> 34: 12
+User 31 vende a monto 15
+User 36 compra a monto 3
+User 80 vende a monto 10
+User 57 vende a monto 2
+Orden Ejecutada: 57 -> 29: 2
+User 17 vende a monto 5
+Orden Ejecutada: 17 -> 53: 5
+User 27 compra a monto 5
+User 86 compra a monto 3
+User 11 vende a monto 8
+User 18 compra a monto 15
+Orden Ejecutada: 11 -> 18: 15
+User 55 compra a monto 4
+User 13 compra a monto 1
+User 57 vende a monto 12
+User 45 vende a monto 5
+Orden Ejecutada: 45 -> 27: 5
+User 13 compra a monto 8
+User 62 vende a monto 11
+User 51 compra a monto 8
+Estado del mercado
+	8 por 13
+	SPREAD 2
+	10 por 80
+User 63 compra a monto 6
+User 62 vende a monto 5
+Orden Ejecutada: 62 -> 13: 5
+User 73 vende a monto 15
+User 80 vende a monto 7
+Orden Ejecutada: 80 -> 51: 7
+User 92 vende a monto 7
+User 74 compra a monto 1
+User 72 vende a monto 2
+Orden Ejecutada: 72 -> 63: 2
+User 20 compra a monto 15
+Orden Ejecutada: 92 -> 20: 15

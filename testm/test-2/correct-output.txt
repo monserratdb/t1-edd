@@ -1,0 +1,266 @@
+User 754 vende a monto 24
+User 682 compra a monto 13
+User 277 compra a monto 23
+User 127 compra a monto 16
+User 197 vende a monto 10
+Orden Ejecutada: 197 -> 277: 10
+User 683 vende a monto 5
+Orden Ejecutada: 683 -> 127: 5
+Estado del mercado
+	13 por 682
+	SPREAD 11
+	24 por 754
+User 320 vende a monto 16
+Estado del mercado
+	13 por 682
+	SPREAD 3
+	16 por 320
+User 752 vende a monto 7
+Orden Ejecutada: 752 -> 682: 7
+Estado del mercado
+	16 por 320
+User 981 compra a monto 11
+Estado del mercado
+	11 por 981
+	SPREAD 5
+	16 por 320
+User 113 vende a monto 25
+User 491 compra a monto 7
+User 186 vende a monto 14
+User 629 vende a monto 15
+User 720 vende a monto 20
+User 653 compra a monto 7
+Estado del mercado
+	11 por 981
+	SPREAD 3
+	14 por 186
+User 963 vende a monto 24
+User 42 vende a monto 9
+Orden Ejecutada: 42 -> 981: 9
+User 687 vende a monto 21
+User 248 compra a monto 22
+Orden Ejecutada: 186 -> 248: 22
+Estado del mercado
+	7 por 491
+	SPREAD 8
+	15 por 629
+User 807 compra a monto 3
+User 743 vende a monto 15
+User 75 vende a monto 1
+Orden Ejecutada: 75 -> 491: 1
+User 683 vende a monto 12
+Estado del mercado
+	7 por 653
+	SPREAD 5
+	12 por 683
+User 558 compra a monto 21
+Orden Ejecutada: 683 -> 558: 21
+User 246 compra a monto 4
+Estado del mercado
+	7 por 653
+	SPREAD 8
+	15 por 629
+Estado del mercado
+	7 por 653
+	SPREAD 8
+	15 por 629
+User 689 compra a monto 19
+Orden Ejecutada: 629 -> 689: 19
+User 646 vende a monto 23
+User 972 compra a monto 23
+Orden Ejecutada: 743 -> 972: 23
+User 983 vende a monto 10
+User 122 compra a monto 22
+Orden Ejecutada: 983 -> 122: 22
+User 129 compra a monto 16
+Orden Ejecutada: 320 -> 129: 16
+User 510 vende a monto 12
+User 400 vende a monto 2
+Orden Ejecutada: 400 -> 653: 2
+User 150 vende a monto 2
+Orden Ejecutada: 150 -> 246: 2
+User 600 vende a monto 24
+User 881 compra a monto 11
+User 581 compra a monto 13
+Orden Ejecutada: 510 -> 581: 13
+User 175 vende a monto 17
+User 619 compra a monto 14
+Estado del mercado
+	14 por 619
+	SPREAD 3
+	17 por 175
+User 81 vende a monto 20
+User 868 compra a monto 14
+User 991 vende a monto 15
+Estado del mercado
+	14 por 619
+	SPREAD 1
+	15 por 991
+User 87 compra a monto 20
+Orden Ejecutada: 991 -> 87: 20
+User 100 vende a monto 24
+User 442 compra a monto 15
+Estado del mercado
+	15 por 442
+	SPREAD 2
+	17 por 175
+User 919 compra a monto 18
+Orden Ejecutada: 175 -> 919: 18
+Estado del mercado
+	15 por 442
+	SPREAD 5
+	20 por 720
+User 547 vende a monto 25
+User 392 compra a monto 7
+User 236 vende a monto 8
+Orden Ejecutada: 236 -> 442: 8
+User 686 vende a monto 1
+Orden Ejecutada: 686 -> 619: 1
+User 421 compra a monto 9
+Estado del mercado
+	14 por 868
+	SPREAD 6
+	20 por 720
+User 656 compra a monto 25
+Orden Ejecutada: 720 -> 656: 25
+User 711 vende a monto 3
+Orden Ejecutada: 711 -> 868: 3
+User 1 vende a monto 12
+User 863 vende a monto 15
+User 265 compra a monto 15
+Orden Ejecutada: 1 -> 265: 15
+User 825 compra a monto 13
+User 840 vende a monto 19
+User 326 vende a monto 9
+Orden Ejecutada: 326 -> 825: 9
+User 78 vende a monto 21
+User 606 compra a monto 18
+Orden Ejecutada: 863 -> 606: 18
+User 644 compra a monto 13
+User 400 compra a monto 13
+User 13 compra a monto 14
+User 242 compra a monto 7
+User 400 vende a monto 22
+User 282 compra a monto 25
+Orden Ejecutada: 840 -> 282: 25
+User 178 compra a monto 2
+User 356 vende a monto 14
+Orden Ejecutada: 356 -> 13: 14
+User 15 compra a monto 1
+Estado del mercado
+	13 por 644
+	SPREAD 7
+	20 por 81
+User 11 vende a monto 21
+User 163 vende a monto 10
+Orden Ejecutada: 163 -> 644: 10
+User 959 vende a monto 3
+Orden Ejecutada: 959 -> 400: 3
+Estado del mercado
+	11 por 881
+	SPREAD 9
+	20 por 81
+User 677 vende a monto 7
+Orden Ejecutada: 677 -> 881: 7
+User 864 vende a monto 4
+Orden Ejecutada: 864 -> 421: 4
+User 736 compra a monto 18
+User 800 vende a monto 17
+Orden Ejecutada: 800 -> 736: 17
+User 700 vende a monto 21
+Estado del mercado
+	7 por 392
+	SPREAD 13
+	20 por 81
+User 470 vende a monto 11
+User 792 compra a monto 4
+Estado del mercado
+	7 por 392
+	SPREAD 4
+	11 por 470
+User 233 compra a monto 21
+Orden Ejecutada: 470 -> 233: 21
+User 1 vende a monto 22
+User 232 compra a monto 17
+User 587 compra a monto 12
+User 496 compra a monto 21
+Orden Ejecutada: 81 -> 496: 21
+User 114 compra a monto 14
+User 809 vende a monto 21
+User 73 compra a monto 20
+Estado del mercado
+	20 por 73
+	SPREAD 1
+	21 por 687
+User 619 compra a monto 23
+Orden Ejecutada: 687 -> 619: 23
+Estado del mercado
+	20 por 73
+	SPREAD 1
+	21 por 78
+User 729 compra a monto 23
+Orden Ejecutada: 78 -> 729: 23
+Estado del mercado
+	20 por 73
+	SPREAD 1
+	21 por 11
+User 219 compra a monto 2
+User 151 compra a monto 21
+Orden Ejecutada: 11 -> 151: 21
+User 168 vende a monto 15
+Orden Ejecutada: 168 -> 73: 15
+User 188 compra a monto 17
+User 401 vende a monto 12
+Orden Ejecutada: 401 -> 232: 12
+User 537 vende a monto 9
+Orden Ejecutada: 537 -> 188: 9
+User 970 compra a monto 8
+User 738 vende a monto 9
+Orden Ejecutada: 738 -> 114: 9
+User 972 vende a monto 3
+Orden Ejecutada: 972 -> 587: 3
+User 439 compra a monto 15
+User 790 compra a monto 10
+User 191 vende a monto 25
+Estado del mercado
+	15 por 439
+	SPREAD 6
+	21 por 700
+User 479 compra a monto 7
+User 915 vende a monto 25
+User 324 vende a monto 16
+User 171 vende a monto 20
+User 611 vende a monto 11
+Orden Ejecutada: 611 -> 439: 11
+User 134 compra a monto 7
+User 66 vende a monto 4
+Orden Ejecutada: 66 -> 790: 4
+User 706 vende a monto 24
+User 896 compra a monto 10
+User 780 vende a monto 2
+Orden Ejecutada: 780 -> 896: 2
+User 126 vende a monto 16
+User 731 vende a monto 21
+User 943 vende a monto 20
+User 212 compra a monto 15
+User 946 vende a monto 1
+Orden Ejecutada: 946 -> 212: 1
+User 296 vende a monto 1
+Orden Ejecutada: 296 -> 970: 1
+User 301 vende a monto 4
+Orden Ejecutada: 301 -> 392: 4
+User 410 vende a monto 10
+User 572 vende a monto 6
+Orden Ejecutada: 572 -> 242: 6
+User 509 vende a monto 15
+User 285 vende a monto 15
+User 133 compra a monto 2
+User 826 compra a monto 25
+Orden Ejecutada: 410 -> 826: 25
+Estado del mercado
+	7 por 479
+	SPREAD 8
+	15 por 509
+User 205 compra a monto 23
+Orden Ejecutada: 509 -> 205: 23
+User 322 compra a monto 2
